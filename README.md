@@ -1,2 +1,0 @@
-# Hadoop
-All things HIVE, IMPALA, HUE, SPARK STREAMING
